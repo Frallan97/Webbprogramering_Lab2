@@ -1,2 +1,3 @@
 # Webbprogramering_Lab2
-Created with CodeSandbox
+Forked from Sandbox
+Schoolproject by Frans Sjöström
